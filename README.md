@@ -1,2 +1,2 @@
 # BunkBot
-Bot attending classes on behalf of you
+Bot will attend classes on behalf of you
